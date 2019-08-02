@@ -3,3 +3,4 @@ OOP programm on typescript, implements bubble sort for various types of data lis
 1. intergers
 2. strings
 3. linkedList
+## npm start 
